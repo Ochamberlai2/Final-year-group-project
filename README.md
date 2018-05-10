@@ -1,7 +1,7 @@
-# Group Project
+# Final Year Group Project
 
-This is the repository for your group project, keep it neat and well organised with sensible folder structures.
+This repository contains the Unity3D project and source code for my final year group project from my Computer Game Programming(BSc) degree. During this project, I worked as part of a team of 4, split between two Computer Game Design students and 2 Computer Game Programming students, myself included.
 
-There is **no** need to create archived builds of your project or to keep any old files - everything is automatically archived for you.
+A colony simulation/resource management game, inspired by the likes of Dwarf fortress and Rimworld. Written in C# and using the Unity3D engine, players must build a colony and survive in a land where agriculture isn't possible. Gain resources by hunting the dinosaurian wildlife which has adapted to become one with the local landscape and only sees your colony as just another food source.
 
-**Note** that these repositories are visible to anyone, so it is your chance to publically demonstrate your ability to work in a professional and considered manner.
+In this project, I was responsible for creating the AI behaviours of the colonist agents; as well as any of the colony building functionality and any UI elements that came along with this.
